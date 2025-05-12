@@ -3,4 +3,3 @@ public class FizzBuzzChecker {
         return number % 15 == 0;
     }
 }
-
